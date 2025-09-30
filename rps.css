@@ -1,0 +1,21 @@
+ 
+.rock-image{
+  height: 30px;
+  
+}
+
+.paper-image{
+  height: 30px;
+}
+
+.scissors-image{
+  height: 30px;
+}
+
+
+div{
+margin-top: 15px; font-size: 18px; font-weight: bold;
+
+}
+
+
